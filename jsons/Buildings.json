@@ -1,13 +1,14 @@
 [
 	{
-		"name": "Pyramid",
+		"name": "Obelisk of Darkness",
 		"replaces": "Shrine",
-		"uniqueTo": "Maya",
-		"cost": 40,
-		"happiness": 1,
-		"culture": 3,
-		"science": 3,
-		"faith": 5,
+		"uniqueTo": "Blacklight",
+		"cost": 50,
+		"production": 1,
+		"happiness": 2,
+		"culture": 4,
+		"science": 4,
+		"faith": 8,
 		"maintenance": 1,
 		"requiredTech": "Pottery"
 	}
