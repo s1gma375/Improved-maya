@@ -11,3 +11,94 @@ size: 100, 100
 orig: 100, 100
 offset: 0, 0
 index: -1
+BuildIcons/Obelisk of Darkness
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+BuildIcons/Agricure StockHouse
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+BuildIcons/Temple of Knowledge
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+BuildIcons/The Impenetrable Walls
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+BuildIcons/The Warrior Forge
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+BuildIcons/Golden lighthouse
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+UnitIcons/Tracker
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+UnitIcons/Mechanised Sigma Forces
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+UnitIcons/Kosakta
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+UnitIcons/Ticonderoga-class cruiser
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+UnitIcons/MBT-104
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+UnitIcons/F35
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+UnitIcons/B2
+rotate: false
+xy: 1,10
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
