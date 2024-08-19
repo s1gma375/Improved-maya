@@ -38,6 +38,7 @@
 		 ["[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>"],
 		 ["[+1] Sight <for [{Military} {Land}] units>",
 		 ["Free [Great Scientist] appears <upon discovering [Writing] technology>",
+		 ["[+50]% Production when constructing [All] wonders [in all cities]"]
 
 		 
 		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
