@@ -24,11 +24,7 @@
 		"uniques": 
 		 ["May choose [1] additional belief(s) of any type when [founding] a religion",
 		 ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
-			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
-				 
-		 
- 		// Parameters: tech, comment, amount, comment. Compare "Free [Great General] appears" as used by policies
-		
+		 "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."], 
 		 ["Gain a free [Harbor] [in all coastal cities]",
 		 ["When declaring friendship, both parties gain a [10]% boost to great person generation"],
 		 ["[+1 Production] from every [Pasture]", "Starts with [Animal Husbandry]",
@@ -40,6 +36,11 @@
 		 ["Free [Great Scientist] appears <upon discovering [Writing] technology>"],
 		 ["[+50]% Production when constructing [All] wonders [in all cities]"],
 		 ["[+25]% Production towards any buildings that already exist in the Capital"],
+				 
+		 
+ 		// Parameters: tech, comment, amount, comment. Compare "Free [Great General] appears" as used by policies
+		
+
 
 		 
 		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
