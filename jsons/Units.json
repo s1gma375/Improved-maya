@@ -1,15 +1,41 @@
 [
 	{
-		"name": "Atlatlist",
-		"unitType": "Ranged",
-		"uniqueTo": "Maya",
-		"replaces": "archer",
+		"name": "Tracker",
+		"replaces": "Scout",
+		"uniqueTo" : "Blacklight"
+		"unitType": "Scout",
 		"movement": 2,
-		"strength": 5,
-		"rangedStrength": 7,
-		"range": 2,
-		"cost": 36,
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "arrow"
-	}
+		"strength": 10,
+		"rangedStrength": 8,
+		"cost": 35,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Gold]", "Can move after attacking"],
+		"promotions": ["Ignore terrain cost"],
+		"upgradesTo": "Musketman"
+		"attackSound": "Arrow"
+	},
+	{
+		"name": "Mechanised Sigma Forces",
+		"replaces": "Mechanized Infantry",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 120,
+		"cost": 375,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["Never appears as a Barbarian unit", "[+1] sight", "[+1] Movement"],
+		"attackSound": "tankshot"	
+	},
+	{
+		"name": "Kosakta",
+		"replaces": "Nuclear Submarine",
+		"unitType": "Submarine",
+		"movement": 7,
+		"strength": 50,
+		"range": 4,
+		"rangedStrength": 115,
+		"cost": 425,
+		"requiredTech": "Telecommunications",
+		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "[+2] Sight", "Can carry [4] [Missile] units", "Never appears as a Barbarian unit"],
+		"attackSound": "torpedo"	
+	},
 ]
