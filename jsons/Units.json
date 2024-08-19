@@ -38,4 +38,34 @@
 		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "[+2] Sight", "Can carry [4] [Missile] units", "Never appears as a Barbarian unit"],
 		"attackSound": "torpedo"	
 	},
+	{
+		"name": "Ticonderoga-class cruiser",
+		"replaces": "Missile Cruiser",
+		"unitType": "Ranged Water",
+		"movement": 10,
+		"strength": 100,
+		"rangedStrength": 120,
+		"range": 4,
+		"interceptRange": 3,
+		"cost": 425,
+		"requiredTech": "Robotics",
+		"uniques": ["[100]% chance to intercept air attacks", "Can see invisible [Submarine] units",
+		"Can carry [6] [Missile] units", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "shipguns"
+	},
+	{
+		"name": "MBT-104",
+		"replaces": "Modern Armor",
+		"unitType": "Armored",
+		"movement": 6,
+		"strength": 120,
+		"cost": 425,
+		"requiredTech": "Lasers",
+		"requiredResource": "Aluminum",
+		"upgradesTo": "Giant Death Robot",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	
 ]
