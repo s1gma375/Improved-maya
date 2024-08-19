@@ -72,5 +72,20 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "F35",
+		"replaces": "Jet Fighter",
+		"unitType": "Fighter",
+		"movement": 1,
+		"strength": 75,
+		"rangedStrength": 75,
+		"range": 10,
+		"interceptRange": 10,
+		"cost": 425,
+		"requiredTech": "Lasers",
+		"requiredResource": "Aluminum",
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"attackSound": "jetgun"
+	},
 	
 ]
