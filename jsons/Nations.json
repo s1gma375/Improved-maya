@@ -1,8 +1,8 @@
 [
 	{
-		"name": "The Maya",
-		"leaderName": "Pacal",
-		"adjective": ["mayan"],
+		"name": "AfricanKing",
+		"leaderName": "Abdu",
+		"adjective": ["slave"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Pacal",
