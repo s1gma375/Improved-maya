@@ -5,6 +5,7 @@
 		"uniqueTo" : "Blacklight"
 		"unitType": "Scout",
 		"movement": 2,
+		"range": 2,
 		"strength": 10,
 		"rangedStrength": 8,
 		"cost": 35,
