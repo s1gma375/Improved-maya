@@ -1,52 +1,31 @@
 [
 	{
-		"name": "AfricanKing",
-		"leaderName": "Abdu",
-		"adjective": ["slave"],
+		"name": "Blacklight",
+		"leaderName": "Atlas",
+		"adjective": ["CEO"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Pacal",
 
-        "startIntroPart1": "Kneel before King Pacal the Great, son of the gods and protector of the Palenque domain! After your kingdom has been harassed for years by neighboring rivals, you struck back at the enemies of your people, defeating each of them and sacrificing their leaders as a retribution to the insults made to your ancestors. Your wisdom and hard will not only restored the glory of Palenque, but turned it into a magnificient city, as your people built the greatest monuments and architecture the world has ever known.",
-        "startIntroPart2": "Absolute King, your people need you to save the great Mayan culture and knowledge. Will you be able to read the movement of the stars, and find in the heavens the power to repel any foes? Will your new empire shine through the ages of history?",
+        "startIntroPart1": "Welcome, you where chosen to be the CEO of this secret company, you where sent back in time with the power of immortality, make the right decision to conquest this reality. Over.",
+        "startIntroPart2": "Sir, we contact you from the future, you are the chosen one to be sent in the past, prove yourself succeeding in this challenge",
 
-        "declaringWar": "A sacrifice unlike all others must be made!",
-		"attacked": "Muahahahahahaha!",
-		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
-		"introduction": "Greetings, wayward one. I am known as Pacal.",
-		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
+        "declaringWar": "You choose your own death",
+		"attacked": "The outcome of this battle was choosen long before you where even born, so now surrender yourself or die trying to save your people.",
+		"defeated": "So at the end i failed my mission, i am not the choosen one",
+		"introduction": "Greetings, My name is Atlas, the leader of the Blacklight",
+		"tradeRequest": "I am here to offer you a trade that you could not deny",
 
 		"neutralHello": "A fine day, it helps you.",
-		"outerColor": [198, 141, 99],
-		"innerColor": [24, 63, 66],
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 70, 15],
 		"favoredReligion": "Christianity",
-		"uniqueName": "The Long Count",
+		"uniqueName": "The knowledge from the future",
 		"uniques": 
-		 ["May choose [1] additional belief(s) of any type when [founding] a religion",
-		 ["Gain a free [Harbor] [in all coastal cities]",
-		 ["When declaring friendship, both parties gain a [10]% boost to great person generation"],
-		 ["[+1 Production] from every [Pasture]", "Starts with [Animal Husbandry]",
-		 ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]"],
-		 ["Receive triple Gold from Barbarian encampments and pillaging Cities"],
-		 ["[+100 Gold] for discovering a Natural Wonder (bonus enhanced to [+500 Gold] if first to discover it)"],
-		 ["[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>"],
-		 ["[+1] Sight <for [{Military} {Land}] units>"],
-		 ["Free [Great Scientist] appears <upon discovering [Writing] technology>"],
-		 ["[+50]% Production when constructing [All] wonders [in all cities]"],
-		 ["[+25]% Production towards any buildings that already exist in the Capital"],
-		 ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
-		 "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."], 
-				 
-		 
- 		// Parameters: tech, comment, amount, comment. Compare "Free [Great General] appears" as used by policies
-		
-
-
-		 
-		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
-			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
-			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
-			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
-        "spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
+		"cities": ["Alexandropolis","Roman","Vegas","Umbra","Hyldrin","Grendel","Loba","San Samuel","Phobos",
+			"Mars","Mag","Mesa","Black Mesa","Comalcalco","Alpha","Bravo","Ground Zero","Abstergo",
+			"Distopia","Utopia","Cerros","Saryn","Wisp","Cival","San Bartolo","Riss","Carontes",
+			"Inferno","Paradiso","Dos Pilas","Maciope","Jeriko","Zaculu","Kashi"],
+        "spyNames": ["Terror", "Torment", "Shadow", "Stalker", "Pain", "Fear", "Loniless", "Xavy", "Xantares", "Coldzera"]
     }
 ]
