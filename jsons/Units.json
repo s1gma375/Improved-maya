@@ -87,5 +87,19 @@
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "jetgun"
 	},
+	{
+		"name": "B2",
+		"unitType": "Bomber",
+		"replaces": "Stealth Bomber",
+		"movement": 2,
+		"strength": 105,
+		"rangedStrength": 105,
+		"range": 25,
+		"cost": 425,
+		"requiredTech": "Stealth",
+		"requiredResource": "Aluminum",
+		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
+		"attackSound": "bombing"
+	}
 	
 ]
