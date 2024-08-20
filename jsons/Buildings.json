@@ -19,7 +19,7 @@
 		"cost": 65,
 		"food": 4,
 		"happiness": 1,
-		"science" 1,
+		"science": 1,
 		"production": 1,
 		"maintenance": 1,
 		"uniques": ["[+2 Food] from [Deer] tiles [in this city]",
@@ -31,7 +31,7 @@
 		"name": "Temple of Knowledge",
 		"replaces": "Library",
 		"uniqueTo": "Blacklight",
-		"hurryCostModifier": 25
+		"hurryCostModifier": 25,
 		"science": 2,
 		"culture": 4,
 		"faith": 1,
