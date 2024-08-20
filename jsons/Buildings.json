@@ -43,6 +43,7 @@
 	{
 		"name": "The Impenetrable Walls",
 		"replaces": "Walls",
+		"uniqueTo": "Blacklight",
 		"cityStrength": 10,
 		"cityHealth": 75,
 		"hurryCostModifier": 25,
@@ -52,6 +53,7 @@
 	{
 		"name": "The Warrior Forge",
 		"replaces": "Barracks",
+		"uniqueTo": "Blacklight",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [60] Experience [in this city]", "Destroyed when the city is captured"],
@@ -60,6 +62,7 @@
 	{
 		"name": "Golden lighthouse",
 		"replaces": "Lighthouse",
+		"uniqueTo": "Blacklight",
 		"cost": 85,
 		"hurryCostModifier": 25,
 		"gold": 2,
