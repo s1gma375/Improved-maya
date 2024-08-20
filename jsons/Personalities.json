@@ -1,0 +1,32 @@
+[
+  {
+      "name": "Atlas",
+      "culture": 9,
+      "faith": 8,
+      "food": 10,
+      "gold": 9,
+      "happiness": 7,
+      "production": 9,
+      "science": 9,
+
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 7,
+      "commerce": 8,
+      "diplomacy": 9,
+      "loyal": 9,
+      "expansion": 10,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 10,
+          "Honor": 8,
+          "Commerce": 9,
+          "Patronage": 7,
+          "Piety": 8,
+          "Rationalism": 9,
+          "Freedom": 10,
+          "Autocracy": 9,
+          "Order": 10
+  }
+]
