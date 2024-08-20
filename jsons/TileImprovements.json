@@ -1,3 +1,4 @@
+[
 	{
 		"name": "Monument of greatness",
 		"uniqueTo": "Blacklight",
@@ -7,3 +8,4 @@
 		"uniques": ["[+6 Production, +6 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+30 Gold]"],
 		"techRequired": "Guilds",
 	},
+]
