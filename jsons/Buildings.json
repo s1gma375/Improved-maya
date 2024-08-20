@@ -13,6 +13,19 @@
 		"requiredTech": "Pottery"
 	},
 	{
+		"name": "Obelisk of Darkness",
+		"replaces": "Monument",
+		"uniqueTo": "Blacklight",
+		"cost": 50,
+		"faith": 8,
+		"production": 1,
+		"happiness": 2,
+		"culture": 4,
+		"science": 4,
+		"maintenance": 1,
+		"requiredTech": "Pottery"
+	},
+	{
 		"name": "Agricure StockHouse",
 		"replaces": "Granary",
 		"uniqueTo": "Blacklight",
