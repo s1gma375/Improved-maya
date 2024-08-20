@@ -3,7 +3,7 @@
 		"name": "Blacklight",
 		"leaderName": "Atlas",
 		"adjective": ["CEO"],
-		"startBias": [["Coast"],"Avoid [Snow]","Avoid [Desert]"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Atlas",
 
