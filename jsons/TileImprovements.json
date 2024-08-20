@@ -1,0 +1,9 @@
+	{
+		"name": "Monument of greatness",
+		"uniqueTo": "Blacklight",
+		"food": 6,
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"turnsToBuild": 7,
+		"uniques": ["[+6 Production, +6 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+30 Gold]"],
+		"techRequired": "Guilds",
+	},
