@@ -2,7 +2,7 @@
 	{
 		"name": "Tracker",
 		"replaces": "Scout",
-		"uniqueTo" : "Blacklight"
+		"uniqueTo" : "Blacklight",
 		"unitType": "Scout",
 		"movement": 2,
 		"range": 2,
@@ -18,7 +18,7 @@
 	{
 		"name": "Mechanised Sigma Forces",
 		"replaces": "Mechanized Infantry",
-		"uniqueTo" : "Blacklight"
+		"uniqueTo" : "Blacklight",
 		"unitType": "Gunpowder",
 		"movement": 3,
 		"strength": 120,
@@ -30,7 +30,7 @@
 	{
 		"name": "Kosakta",
 		"replaces": "Nuclear Submarine",
-		"uniqueTo" : "Blacklight"
+		"uniqueTo" : "Blacklight",
 		"unitType": "Submarine",
 		"movement": 7,
 		"strength": 50,
@@ -44,7 +44,7 @@
 	{
 		"name": "Ticonderoga-class cruiser",
 		"replaces": "Missile Cruiser",
-		"uniqueTo" : "Blacklight"
+		"uniqueTo" : "Blacklight",
 		"unitType": "Ranged Water",
 		"movement": 10,
 		"strength": 100,
@@ -61,7 +61,7 @@
 	{
 		"name": "MBT-104",
 		"replaces": "Modern Armor",
-		"uniqueTo" : "Blacklight"
+		"uniqueTo" : "Blacklight",
 		"unitType": "Armored",
 		"movement": 6,
 		"strength": 120,
@@ -76,6 +76,7 @@
 		"name": "F35",
 		"replaces": "Jet Fighter",
 		"unitType": "Fighter",
+		"uniqueTo" : "Blacklight",
 		"movement": 1,
 		"strength": 85,
 		"rangedStrength": 125,
@@ -91,6 +92,7 @@
 		"name": "B2",
 		"unitType": "Bomber",
 		"replaces": "Stealth Bomber",
+		"uniqueTo" : "Blacklight",
 		"movement": 2,
 		"strength": 105,
 		"rangedStrength": 105,
