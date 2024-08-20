@@ -82,5 +82,19 @@
 		"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]",
 		"[+1 Gold] from each Trade Route]"],
 		"requiredTech": "Optics"
+	},
+	{
+		"name": "The ascenscion",
+		"uniqueTo": "Blacklight",
+		"cost": 180,
+		"hurryCostModifier": 25,
+		"gold": 10,
+		"science": 10,
+		"culture": 10,
+		"production": 10,
+		"faith": 10,
+		"happiness": 10,
+		"uniques": ["New [Military] units start with [120] Experience [in this city]", "Destroyed when the city is captured", "[+1 Production, +1 Science, +1 Gold, + Faith] per [2] population [in this city]"],
+		"requiredTech": "Guilds"
 	}
 ]
