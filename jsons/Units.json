@@ -26,7 +26,7 @@
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["Earn [300]% of killed [Military] unit's [Strength] as [Gold]", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost", "March", "Besiege"],
-		"upgradesTo": "Musketman",
+		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
 	{
