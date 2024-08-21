@@ -16,6 +16,22 @@
 		"attackSound": "arrow"
 	},
 	{
+		"name": "Tracker",
+		"uniqueTo" : "Blacklight",
+		"unitType": "Scout",
+		"movement": 4,
+		"range": 3,
+		"strength": 28,
+		"rangedStrength": 30,
+		"cost": 60,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Earn [150]% of killed [Military] unit's [Strength] as [Gold]", "Can move after attacking", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"upgradesTo": "Rifleman",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Bountyhunter",
 		"replaces": "Warrior",
 		"uniqueTo" : "Blacklight",
