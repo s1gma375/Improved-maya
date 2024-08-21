@@ -45,6 +45,22 @@
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
+		{
+		"name": "Immortal",
+		"replaces": "Swordsman",
+		"uniqueTo" : "Blacklight",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 16,
+		"cost": 85,
+		"hurryCostModifier": 20,
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"uniques": ["Earn [325]% of killed [Military] unit's [Strength] as [Gold]", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost", "March", "Besiege"],
+		"upgradesTo": "Longswordsman",
+		"attackSound": "metalhit"
+	},
 	{
 		"name": "Freya squad",
 		"replaces": "Mechanized Infantry",
