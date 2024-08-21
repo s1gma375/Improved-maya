@@ -12,7 +12,7 @@
 		"obsoleteTech": "Gunpowder",
 		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
-		"upgradesTo": "Musketman",
+		"upgradesTo": "Stalker",
 		"attackSound": "arrow"
 	},
 	{
