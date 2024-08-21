@@ -3,7 +3,7 @@
 		"name": "Blacklight",
 		"leaderName": "Atlas",
 		"adjective": ["CEO"],
-		"startBias": ["Hill", "Plains", "Coast"],
+		"startBias": ["Plains", "Coast"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Atlas",
 
