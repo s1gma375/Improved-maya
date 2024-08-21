@@ -71,7 +71,6 @@
 		"[20]% Food is carried over after population increases [in all cities]",
 		"Each city founded increases culture cost of policies [20]% less than normal",
 		"[+3 Faith] from every [Great Improvement]","[+2 Faith] from every specialist [in all cities]",
-		"[+3 Science, +3 Culture] [in capital] <after discovering [Writing]>",
 		"[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
 		
 		"cities": ["Alexandropolis","Roman","Vegas","Umbra","Hyldrin","Grendel","Loba","San Samuel","Phobos",
