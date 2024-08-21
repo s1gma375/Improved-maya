@@ -94,7 +94,7 @@
 		"production": 10,
 		"faith": 10,
 		"happiness": 10,
-		"uniques": ["New [Military] units start with [120] Experience [in this city]", "Destroyed when the city is captured", "[+1 Production, +1 Science, +1 Gold, + Faith] per [2] population [in this city]"],
+		"uniques": ["New [Military] units start with [120] Experience [in this city]", "Destroyed when the city is captured",
 		"requiredTech": "Guilds"
 	}
 ]
