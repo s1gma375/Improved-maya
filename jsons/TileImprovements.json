@@ -3,9 +3,9 @@
 		"name": "Monument of greatness",
 		"uniqueTo": "Blacklight",
 		"food": 10,
-		"terrainsCanBeBuiltOn": ["Hill","Snow","Tundra"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
 		"turnsToBuild": 7,
 		"uniques": ["[+10 Production, +10 Gold, +10 culture, +10 faith] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+30 Gold]"],
-		"techRequired": "Guilds",
-	},
+		"techRequired": "Guilds"
+	}
 ]
