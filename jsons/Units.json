@@ -39,10 +39,11 @@
 		"movement": 3,
 		"strength": 13,
 		"cost": 40,
+		"requiredTech": "Iron working",
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost", "March", "Besiege"],
-		"upgradesTo": "Swordsman",
+		"upgradesTo": "Immortal",
 		"attackSound": "nonmetalhit"
 	},
 		{
