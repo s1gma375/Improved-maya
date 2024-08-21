@@ -60,7 +60,12 @@
 		"+2 [Science,Production,Gold,Culture] in Capital",
 		"[+1 Faith] per [4] population [in all cities]",
 		"[Mounted] units gain the [Ignore terrain cost] promotion","[+1 Food, +1 Culture, +1 Production] from every [Mountain]",
-		"All military units have + 25% more strength when attacking cities"],
+		"All military units have + 25% more strength when attacking cities",
+		"[+1 Gold] from every [Luxury resource]",
+		"[+30]% Strength <for [Wounded] units>",
+		"[20]% Food is carried over after population increases [in all cities]",
+		"Each city founded increases culture cost of policies [17]% less than normal","[-1 Happiness] [in all cities]",
+		[+3 Faith] from every [Great Improvement]","[+2 Faith] from every specialist [in all cities]"],
 		
 		"cities": ["Alexandropolis","Roman","Vegas","Umbra","Hyldrin","Grendel","Loba","San Samuel","Phobos",
 			"Mars","Mag","Mesa","Black Mesa","Comalcalco","Alpha","Bravo","Ground Zero","Abstergo",
