@@ -26,7 +26,7 @@
 		"cost": 60,
 		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Rifling",
-		"uniques": ["Earn [150]% of killed [Military] unit's [Strength] as [Gold]", "Can move after attacking", "Never appears as a Barbarian unit"],
+		"uniques": ["Earn [200]% of killed [Military] unit's [Strength] as [Gold]", "Can move after attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"upgradesTo": "Rifleman",
 		"attackSound": "shot"
