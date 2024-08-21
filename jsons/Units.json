@@ -67,10 +67,10 @@
 		"uniqueTo" : "Blacklight",
 		"unitType": "Gunpowder",
 		"movement": 4,
-		"strength": 130,
+		"strength": 135,
 		"cost": 375,
 		"requiredTech": "Mobile Tactics",
-		"uniques": ["Never appears as a Barbarian unit", "[+1] sight", "[+1] Movement"],
+		"uniques": ["Never appears as a Barbarian unit", "[+1] Movement"],
 		"attackSound": "tankshot"	
 	},
 	{
