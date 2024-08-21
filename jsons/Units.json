@@ -10,7 +10,7 @@
 		"rangedStrength": 10,
 		"cost": 35,
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["Earn [150]% of killed [Military] unit's [Strength] as [Gold]", "Can move after attacking", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"upgradesTo": "Musketman",
 		"attackSound": "arrow"
@@ -26,7 +26,7 @@
 		"cost": 60,
 		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Rifling",
-		"uniques": ["Earn [200]% of killed [Military] unit's [Strength] as [Gold]", "Can move after attacking", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"upgradesTo": "Rifleman",
 		"attackSound": "shot"
@@ -40,7 +40,7 @@
 		"strength": 13,
 		"cost": 40,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["Earn [300]% of killed [Military] unit's [Strength] as [Gold]", "Never appears as a Barbarian unit"],
+		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost", "March", "Besiege"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
@@ -56,7 +56,7 @@
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
-		"uniques": ["Earn [325]% of killed [Military] unit's [Strength] as [Gold]", "Never appears as a Barbarian unit"],
+		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost", "March", "Besiege"],
 		"upgradesTo": "Longswordsman",
 		"attackSound": "metalhit"
