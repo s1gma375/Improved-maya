@@ -28,7 +28,7 @@
 		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"upgradesTo": "Rifleman",
-		"attackSound": "shot"
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Bountyhunter",
