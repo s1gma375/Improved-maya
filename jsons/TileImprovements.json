@@ -5,7 +5,7 @@
 		"food": 10,
 		"terrainsCanBeBuiltOn": ["Plains"],
 		"turnsToBuild": 7,
-		"uniques": ["[+10 Production, +10 Gold, +10 culture, +10 faith] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+30 Gold]"],
+		"uniques": ["[+6 Production, +6 Gold, +6 culture, +6 faith] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+30 Gold]"],
 		"techRequired": "Guilds"
 	}
 ]
