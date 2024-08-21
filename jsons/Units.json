@@ -161,6 +161,6 @@
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["[-100]% maintenance costs"],
 		"attackSound": "missile"
-	},
+	}
 	
 ]
