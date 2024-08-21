@@ -24,7 +24,6 @@
 		"strength": 28,
 		"rangedStrength": 30,
 		"cost": 60,
-		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Rifling",
 		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
