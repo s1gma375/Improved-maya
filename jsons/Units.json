@@ -9,7 +9,7 @@
 		"strength": 12,
 		"rangedStrength": 10,
 		"cost": 35,
-		"obsoleteTech": "Scientific Theory",
+		"obsoleteTech": "Gunpowder",
 		"uniques": ["Earn [150]% of killed [Military] unit's [Strength] as [Gold]", "Can move after attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"upgradesTo": "Musketman",
