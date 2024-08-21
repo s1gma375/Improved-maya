@@ -16,7 +16,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Tracker",
+		"name": "Stalker",
 		"uniqueTo" : "Blacklight",
 		"unitType": "Scout",
 		"movement": 4,
