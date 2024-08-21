@@ -74,7 +74,8 @@
 		"[+3 Faith] from every specialist [in all cities]",
 		"[+3 Production] from every specialist [in all cities]",
 		"[+3 Production] from every [Great Improvement]",
-		"[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
+		"[+2 Culture] [in all cities] <before discovering [Steam Power]>",
+		"[+50]% XP gained from combat <for [Military] units>"],
 		
 		"cities": ["Alexandropolis","Roman","Vegas","Umbra","Hyldrin","Grendel","Loba","San Samuel","Phobos",
 			"Mars","Mag","Mesa","Black Mesa","Comalcalco","Alpha","Bravo","Ground Zero","Abstergo",
