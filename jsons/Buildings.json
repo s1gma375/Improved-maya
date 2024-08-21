@@ -94,7 +94,7 @@
 		"production": 10,
 		"faith": 10,
 		"happiness": 10,
-		"uniques": ["New [Military] units start with [120] Experience [in this city]", "Destroyed when the city is captured", "[+1 Gold] from each Trade Route",]
+		"uniques": ["New [Military] units start with [120] Experience [in this city]", "Destroyed when the city is captured", "[+1 Gold] from each Trade Route",],
 		"requiredTech": "Guilds"
 	}
 ]
