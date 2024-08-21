@@ -5,7 +5,7 @@
 		"food": 10,
 		"terrainsCanBeBuiltOn": ["Hills"],
 		"turnsToBuild": 7,
-		"uniques": ["[+10 Gold <after discovering [Economics]>", "[+10 Production <after discovering [Industrialization]>","[+10 food <after discovering [Biology]>", "[+10 Culture <after discovering [Architecture]>","[+10 Faith <after discovering [Acoustics]>" "Pillaging this improvement yields approximately [+30 Gold]"],
+		"uniques": ["[+10 Gold <after discovering [Economics]>", "[+10 Production <after discovering [Industrialization]>","[+10 food <after discovering [Biology]>", "[+10 Culture <after discovering [Architecture]>","[+10 Faith <after discovering [Acoustics]>","Pillaging this improvement yields approximately [+30 Gold]"],
 		"techRequired": "Guilds"
 	}
 ]
