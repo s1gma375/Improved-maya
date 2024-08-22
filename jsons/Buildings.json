@@ -58,6 +58,9 @@
 		"uniqueTo": "Blacklight",
 		"cityStrength": 10,
 		"cityHealth": 75,
+		"culture": 1,
+		"science": 1,
+		"happiness": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
