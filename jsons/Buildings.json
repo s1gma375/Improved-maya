@@ -28,6 +28,7 @@
 	{
 		"name": "Yonko's Harbor",
 		"replaces": "Harbor",
+		"uniqueTo": "Blacklight",
 		"cost": 120,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
