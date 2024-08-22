@@ -54,7 +54,7 @@
 		"strength": 16,
 		"cost": 85,
 		"hurryCostModifier": 20,
-		"requiredTech": "Iron working",
+		"requiredTech": "Iron Working",
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"uniques": ["Never appears as a Barbarian unit"],
