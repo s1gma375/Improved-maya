@@ -33,7 +33,7 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+2 Production] from [Water resource] tiles [in this city]",
 			"Connects trade routes over water","Must be next to [Coast]",
-			"New [Military] units start with [60] Experience [in this city]", "Destroyed when the city is captured", "[+15]% Production when constructing [Water] units [in this city]"],
+			"New [Military] units start with [60] Experience [in this city]", "Destroyed when the city is captured", "[+20]% Production when constructing [Water] units [in this city]"],
 		"requiredTech": "Compass"
 	},
 	{
@@ -83,7 +83,7 @@
 		"uniqueTo": "Blacklight",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [60] Experience [in this city]", "Destroyed when the city is captured", "[+15]% Production when constructing [Land] units [in this city]" ],
+		"uniques": ["New [Military] units start with [60] Experience [in this city]", "Destroyed when the city is captured", "[+20]% Production when constructing [Land] units [in this city]" ],
 		"requiredTech": "Bronze Working"
 	},
 	{
