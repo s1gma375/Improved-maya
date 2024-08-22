@@ -29,14 +29,14 @@
 		"replaces": "Granary",
 		"uniqueTo": "Blacklight",
 		"cost": 65,
-		"food": 4,
+		"food": 8,
 		"happiness": 1,
 		"science": 2,
 		"production": 2,
 		"maintenance": 1,
 		"uniques": ["[+2 Food] from [Deer] tiles [in this city]",
 		"[+2 Food] from [Bananas] tiles [in this city]",
-		"[+2 Food] from [Wheat] tiles [in this city]"],
+		"[+3 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"	
 	},
 	{
