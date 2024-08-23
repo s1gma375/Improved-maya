@@ -10,6 +10,6 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 10,
 		"uniques": ["Pillaging this improvement yields approximately [+30 Gold]", "Great Improvement"],
-		"techRequired": "Industrialisation"
+		"techRequired": "Industrialization"
 	}
 ]
