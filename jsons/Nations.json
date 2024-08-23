@@ -78,7 +78,9 @@
 		"[+2 Culture] [in all cities] <before discovering [Steam Power]>",
 		"[+50]% XP gained from combat <for [Military] units>",
 		"[-50]% construction time for [All] improvements",
-		"Provides a [Obelisk of Darkness] in your first [5] cities for free"],
+		"Provides a [Obelisk of Darkness] in your first [5] cities for free",
+		"[+1 Gold, +2 Production] for every known Natural Wonder (bonus enhanced to [+1 Gold] if first to discover it)",
+		"Receive a free Great Person at the end of every [30 turns] (every 394 years), after researching [Agriculture]. Each bonus person can only be chosen once."],
 		
 		"cities": ["Alexandropolis","Roman","Vegas","Umbra","Hyldrin","Grendel","Loba","San Samuel","Phobos",
 			"Mars","Mag","Mesa","Black Mesa","Comalcalco","Alpha","Bravo","Ground Zero","Abstergo",
