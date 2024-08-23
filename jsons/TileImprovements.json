@@ -1,11 +1,15 @@
 [
 	{
-		"name": "Pillar for the gods",
+		"name": "Industrial complex",
 		"uniqueTo": "Blacklight",
-		"food": 10,
-		"terrainsCanBeBuiltOn": ["Hill"],
+		"food": 12,
+		"production": 12,
+		"gold": 12,
+		"faith": 12,
+		"culture": 12,
+		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 10,
-		"uniques": ["[+10 Gold] <after discovering [Economics]>", "[+10 Production] <after discovering [Industrialization]>","[+10 food] <after discovering [Biology]>", "[+10 Culture] <after discovering [Architecture]>","[+10 Faith] <after discovering [Acoustics]>","Pillaging this improvement yields approximately [+30 Gold]"],
-		"techRequired": "Guilds"
+		"uniques": ["Pillaging this improvement yields approximately [+30 Gold]", "Great Improvement"],
+		"techRequired": "Industrialisation"
 	}
 ]
