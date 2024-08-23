@@ -49,7 +49,8 @@
 		"maintenance": 1,
 		"uniques": ["[+2 Food] from [Deer] tiles [in this city]",
 		"[+2 Food] from [Bananas] tiles [in this city]",
-		"[+3 Food] from [Wheat] tiles [in this city]"],
+		"[+3 Food] from [Wheat] tiles [in this city]",
+		"Provides 1 extra copy of each improved luxury resource near this City"],
 		"requiredTech": "Pottery"	
 	},
 	{
