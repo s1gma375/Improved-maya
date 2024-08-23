@@ -77,7 +77,8 @@
 		"[+3 Production] from every [Great Improvement]",
 		"[+2 Culture] [in all cities] <before discovering [Steam Power]>",
 		"[+50]% XP gained from combat <for [Military] units>",
-		"[-50]% construction time for [All] improvements"],
+		"[-50]% construction time for [All] improvements",
+		"Provides a [Library] in your first [3] cities for free"],
 		
 		"cities": ["Alexandropolis","Roman","Vegas","Umbra","Hyldrin","Grendel","Loba","San Samuel","Phobos",
 			"Mars","Mag","Mesa","Black Mesa","Comalcalco","Alpha","Bravo","Ground Zero","Abstergo",
